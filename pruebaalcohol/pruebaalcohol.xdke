@@ -1,0 +1,62 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1477297028473,
+        "modified": 1477297028473,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1477297870955,
+        "modified": 1477297870955,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1477297028498,
+        "modified": 1477297028498,
+        "seen": true,
+        "name": "package.json"
+      },
+      "pruebaalcohol.xdk": {
+        "previousModTime": 1477297029174,
+        "modified": 1477297029174,
+        "seen": true,
+        "name": "pruebaalcohol.xdk"
+      },
+      "pruebaalcohol.xdke": {
+        "previousModTime": 1477297818813,
+        "modified": 1477297818813,
+        "seen": true,
+        "name": "pruebaalcohol.xdke"
+      },
+      "README.md": {
+        "previousModTime": 1477297028499,
+        "modified": 1477297028499,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1477297029066,
+        "modified": 1477297029066,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1477297871320
+      }
+    }
+  }
+}

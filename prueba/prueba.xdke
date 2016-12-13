@@ -1,0 +1,76 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1477258985054,
+        "modified": 1477258985054,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "License.md": {
+        "previousModTime": 1477258985061,
+        "modified": 1477258985061,
+        "seen": true,
+        "name": "License.md"
+      },
+      "main.js": {
+        "previousModTime": 1477278050628,
+        "modified": 1477278050628,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1477258985057,
+        "modified": 1477258985057,
+        "seen": true,
+        "name": "package.json"
+      },
+      "prueba.xdk": {
+        "previousModTime": 1477258985597,
+        "modified": 1477258985597,
+        "seen": true,
+        "name": "prueba.xdk"
+      },
+      "prueba.xdke": {
+        "previousModTime": 1477278569302,
+        "modified": 1477278569302,
+        "seen": true,
+        "name": "prueba.xdke"
+      },
+      "README.md": {
+        "previousModTime": 1477258985055,
+        "modified": 1477258985055,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1477258985461,
+        "modified": 1477258985461,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "antiguohack.js": {
+        "previousModTime": 1477275737726,
+        "modified": 1477275737726,
+        "seen": true,
+        "name": "antiguohack.js"
+      },
+      "ordenaito.js": {
+        "previousModTime": 1477278446346,
+        "modified": 1477278446346,
+        "seen": true,
+        "name": "ordenaito.js"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}

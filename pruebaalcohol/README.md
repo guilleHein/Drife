@@ -1,12 +1,12 @@
-Analog Pin Read App
+Blank Node.js IoT App
 ============================
-A simple node.js application intended to read data from Analog pins on the Intel based development boards such as the Intel(R) Galileo and Edison with Arduino breakout board.
+The Blank Node.js sample application distributed within Intel® XDK IoT Edition under the Internet of Things  project creation option.
 
-Intel(R) XDK 
+Intel(R) XDK IoT Edition
 -------------------------------------------
 This template is part of the Intel(R) XDK IoT Edition. 
-Download the Intel(R) XDK at http://software.intel.com/en-us/html5. To see the technical details of the sample, 
-please visit the sample article page at TBA.
+Download the Intel(R) XDK IoT Edition at https://software.intel.com/en-us/html5/xdk-iot. To see the technical details of the sample, 
+please visit the sample article page at https://software.intel.com/en-us/xdk/docs/intel-xdk-iot-edition-nodejs-templates.
 
 
 Important App Files
@@ -44,10 +44,3 @@ GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
 HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
 LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT 
 OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-mraa
---------------------------------------------
-* Included on the IoTDevkit Linux Image 
-
-* source:  https://github.com/intel-iot-devkit/mraa
-* license:  https://github.com/intel-iot-devkit/mraa/blob/9d488c8e869e59e1dff2c68218a8f38e9b959cd7/cmake/modules/LICENSE_1_0.txt
